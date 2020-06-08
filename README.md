@@ -1105,3 +1105,26 @@
 </li>
 </ul>
 <h2>10 Most Read Religious Books In The World</h2>
+
+<ul>
+
+                             
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Sacred-Texts-in-World-Religions/blob/master/reg(1).pdf" style="text-decoration:none;">The Ramayana (Holy Book of Hindu's)</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Sacred-Texts-in-World-Religions/blob/master/reg(2).pdf" style="text-decoration:none;">The Bhagavad Gita (Holy Book of Hindu's)</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Sacred-Texts-in-World-Religions/blob/master/reg(3).pdf" style="text-decoration:none;">The Holy Bible (Christians Holy Book)</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Sacred-Texts-in-World-Religions/blob/master/reg(4).pdf" style="text-decoration:none;">The Holy Quran (Holy Book of Muslims)</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Sacred-Texts-in-World-Religions/blob/master/reg(5).pdf" style="text-decoration:none;">The Mahabharata</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Sacred-Texts-in-World-Religions/blob/master/reg(6).pdf" style="text-decoration:none;">Sri Guru Granth Sahib Ji (Shikh's Holy Book)</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Sacred-Texts-in-World-Religions/blob/master/reg(7).pdf" style="text-decoration:none;">Tripitaka (Holy Book of Buddhism's)</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Sacred-Texts-in-World-Religions/blob/master/reg(8).pdf" style="text-decoration:none;"> Tattvartha Sutra (Holy Book of Jain's)</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Sacred-Texts-in-World-Religions/blob/master/reg(9).pdf" style="text-decoration:none;">UpaniShads</a></li>
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Sacred-Texts-in-World-Religions/blob/master/reg(10).pdf" style="text-decoration:none;">Yoga Vasistha - The Art of Self Realization </a></li> 
+ 
+ </ul>
+   
