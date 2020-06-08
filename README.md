@@ -562,8 +562,7 @@
 <p>&nbsp;</p>
 <h3><span id="Christianity" class="mw-headline"><a title="Christianity" href="https://en.wikipedia.org/wiki/Christianity">Christianity</a></span></h3>
 <p>The&nbsp;<strong><a title="Bible" href="https://en.wikipedia.org/wiki/Bible">Bible</a></strong>, the books of which differ by denomination.</p>
-<div class="hatnote navigation-not-searchable">&nbsp;</div>
-<div class="thumb tright">&nbsp;</div>
+
 <dl>
 <dt></dt>
 </dl>
