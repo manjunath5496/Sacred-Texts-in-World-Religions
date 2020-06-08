@@ -3,7 +3,6 @@
 <dl>
 <dt><a title="Ancient Egyptian religion" href="https://en.wikipedia.org/wiki/Ancient_Egyptian_religion">Ancient Egyptian religion</a></dt>
 </dl>
-<div class="thumb tright">&nbsp;</div>
 <ul>
 <li><a title="Pyramid Texts" href="https://en.wikipedia.org/wiki/Pyramid_Texts">Pyramid Texts</a></li>
 <li><a title="Coffin Texts" href="https://en.wikipedia.org/wiki/Coffin_Texts">Coffin Texts</a></li>
@@ -38,7 +37,6 @@
 </li>
 </ul>
 <h3><span id="Classical_antiquity" class="mw-headline">Classical antiquity</span></h3>
-<div class="thumb tright">&nbsp;</div>
 <ul>
 <li><a class="mw-redirect" title="Etruscan mythology" href="https://en.wikipedia.org/wiki/Etruscan_mythology">Etruscan religion</a>
 <ul>
@@ -176,7 +174,6 @@
 <dl>
 <dt><a title="Zoroastrianism" href="https://en.wikipedia.org/wiki/Zoroastrianism">Zoroastrianism</a></dt>
 </dl>
-<div class="thumb tright">&nbsp;</div>
 <ul>
 <li>Primary religious texts, that is, the&nbsp;<a title="Avesta" href="https://en.wikipedia.org/wiki/Avesta">Avesta</a>&nbsp;collection:
 <ul>
@@ -223,7 +220,6 @@
 <ul>
 <li><em><a class="mw-redirect" title="Rasa'il al-hikmah" href="https://en.wikipedia.org/wiki/Rasa%27il_al-hikmah">Rasa'il al-hikmah</a></em>&nbsp;(Epistles of Wisdom)</li>
 </ul>
-</br>
 <h3><span id="Indian" class="mw-headline">Indian</span></h3>
 <h4><span id="Hinduism" class="mw-headline"><a title="Hinduism" href="https://en.wikipedia.org/wiki/Hinduism">Hinduism</a></span></h4>
 <dl>
@@ -389,7 +385,6 @@
 <li>poems of&nbsp;<a title="Dadu Dayal" href="https://en.wikipedia.org/wiki/Dadu_Dayal">Dadu</a></li>
 </ul>
 <h4><span id="Buddhism" class="mw-headline"><a title="Buddhism" href="https://en.wikipedia.org/wiki/Buddhism">Buddhism</a></span></h4>
-<div class="thumb tright">&nbsp;</div>
 <dl>
 <dt><a title="Theravada" href="https://en.wikipedia.org/wiki/Theravada">Theravada</a>&nbsp;Buddhism</dt>
 </dl>
@@ -413,7 +408,6 @@
 <dl>
 <dt>East Asian&nbsp;<a title="Mahayana" href="https://en.wikipedia.org/wiki/Mahayana">Mahayana</a></dt>
 </dl>
-<div class="thumb tright">&nbsp;</div>
 <ul>
 <li>The Chinese Buddhist&nbsp;<a title="Mahayana sutras" href="https://en.wikipedia.org/wiki/Mahayana_sutras">Mahayana sutras</a>, including
 <ul>
@@ -484,7 +478,6 @@
 <li>Four Anuyogas (they call them, the four vedas of jainism)</li>
 </ul>
 <h4><span id="Sikhism" class="mw-headline"><a title="Sikhism" href="https://en.wikipedia.org/wiki/Sikhism">Sikhism</a></span></h4>
-<div class="thumb tright">&nbsp;</div>
 <ul>
 <li>The&nbsp;<a title="Guru Granth Sahib" href="https://en.wikipedia.org/wiki/Guru_Granth_Sahib">Guru Granth Sahib</a></li>
 </ul>
@@ -498,9 +491,7 @@
 <li><a title="Ginans" href="https://en.wikipedia.org/wiki/Ginans">Ginans</a>&nbsp;(the scriptures which contains the inner knowledge of Quran and it's treated by them as Purana's and Ithsas was treated by Hindus)</li>
 <li>Dua (prayers)</li>
 </ul>
-</br>
 <h3><span id="Judaism" class="mw-headline"><a title="" href="https://en.wikipedia.org/wiki/Judaism">Judaism</a></span></h3>
-<div class="thumb tright">&nbsp;</div>
 <dl>
 <dt><a title="Rabbinic Judaism" href="https://en.wikipedia.org/wiki/Rabbinic_Judaism">Rabbinic Judaism</a></dt>
 </dl>
@@ -562,7 +553,6 @@
 <p>&nbsp;</p>
 <h3><span id="Christianity" class="mw-headline"><a title="Christianity" href="https://en.wikipedia.org/wiki/Christianity">Christianity</a></span></h3>
 <p>The&nbsp;<strong><a title="Bible" href="https://en.wikipedia.org/wiki/Bible">Bible</a></strong>, the books of which differ by denomination.</p>
-
 <dl>
 <dt></dt>
 </dl>
@@ -663,7 +653,6 @@
 </ul>
 </li>
 </ul>
-<div class="thumb tright">&nbsp;</div>
 <ul>
 <li><strong><a title="Gnosticism" href="https://en.wikipedia.org/wiki/Gnosticism">Gnosticism</a></strong>&nbsp;liturgical books
 <ul>
@@ -677,7 +666,6 @@
 </ul>
 </li>
 </ul>
-<p>&nbsp;</p>
 <ul>
 <li><strong><a title="Native American Church" href="https://en.wikipedia.org/wiki/Native_American_Church">Native American Church</a></strong>&nbsp;(Christian-leaning factions)</li>
 </ul>
@@ -719,7 +707,6 @@
 <li>Other, smaller branches of Latter Day Saints include other scriptures, such as the&nbsp;<a title="Book of the Law of the Lord" href="https://en.wikipedia.org/wiki/Book_of_the_Law_of_the_Lord">Book of the Law of the Lord</a>&nbsp;used by the&nbsp;<a title="Church of Jesus Christ of Latter Day Saints (Strangite)" href="https://en.wikipedia.org/wiki/Church_of_Jesus_Christ_of_Latter_Day_Saints_(Strangite)">Church of Jesus Christ of Latter Day Saints (Strangite)</a>&nbsp;or&nbsp;<a title="The Word of the Lord" href="https://en.wikipedia.org/wiki/The_Word_of_the_Lord">The Word of the Lord</a>&nbsp;used by&nbsp;<a title="Church of Christ (Fettingite)" href="https://en.wikipedia.org/wiki/Church_of_Christ_(Fettingite)">Fettingite</a>&nbsp;branches.</li>
 </ul>
 <h3><span id="Islam" class="mw-headline"><a title="Islam" href="https://en.wikipedia.org/wiki/Islam">Islam</a></span></h3>
-<div class="thumb tright">&nbsp;</div>
 <ul>
 <li>The&nbsp;<a title="Quran" href="https://en.wikipedia.org/wiki/Quran">Quran</a>&nbsp;(also referred to as Kuran, Koran, Qur&rsquo;ān, Coran or al-Qur&rsquo;ān) &ndash; Four books considered to be revealed and mentioned by name in the Qur'an are the Quran (revealed to Muhammad),&nbsp;<a title="Torah in Islam" href="https://en.wikipedia.org/wiki/Torah_in_Islam">Tawrat</a>&nbsp;(revealed to&nbsp;<a title="Moses in Islam" href="https://en.wikipedia.org/wiki/Moses_in_Islam">Musa</a>), the&nbsp;<a title="Zabur" href="https://en.wikipedia.org/wiki/Zabur">Zabur</a>&nbsp;(revealed to&nbsp;<a title="David in Islam" href="https://en.wikipedia.org/wiki/David_in_Islam">Dawud</a>) and the&nbsp;<a title="Gospel in Islam" href="https://en.wikipedia.org/wiki/Gospel_in_Islam">Injil</a>&nbsp;(revealed to&nbsp;<a title="Jesus in Islam" href="https://en.wikipedia.org/wiki/Jesus_in_Islam">Isa</a>)</li>
 </ul>
@@ -1117,10 +1104,4 @@
 </ul>
 </li>
 </ul>
-</br>
-<h2> 10 Most Read Religious Books In The World </h2>
-
-
-
-
-
+<h2>10 Most Read Religious Books In The World</h2>
